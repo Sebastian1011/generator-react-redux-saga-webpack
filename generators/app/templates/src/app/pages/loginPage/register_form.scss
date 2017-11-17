@@ -1,0 +1,12 @@
+.register-form {
+    .ant-steps {
+        margin: 20px 60px 40px;
+    }
+
+    .ant-form-item-control-wrapper {
+        button + button {
+            float: right;
+            margin-right: 70px;
+        }
+    }
+}

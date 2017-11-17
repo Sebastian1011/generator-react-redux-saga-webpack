@@ -1,0 +1,19 @@
+.login-wrapper {
+  width: 350px;
+  padding-top: 230px;
+  margin: auto;
+  text-align: center;
+  .login-form-button {
+    width: 100%;
+  }
+  .login-title {
+    font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 96px;
+    text-transform: uppercase;
+  }
+  .has-error {
+    text-align: left;
+  }
+}
