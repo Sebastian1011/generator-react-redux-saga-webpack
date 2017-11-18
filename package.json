@@ -1,6 +1,6 @@
 {
     "name": "generator-react-redux-saga-webpack",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Yeoman generator fro using react with redux, webpack and saga via Babel",
     "homepage": "https://github.com/Sebastian1011/generator-react-redux-saga-webpack",
     "author": {
