@@ -65,10 +65,10 @@ module.exports = class extends Generator {
             'src':'src',
             'webpack': 'webpack',
             'webpack.config.js': 'webpack.config.js',
-            '.babelrc': '.babelrc',
-            '.editorconfig': '.editorconfig',
-            '.eslintrc.js': '.eslintrc.js',
-            '.gitignore': '.gitignore'
+            'babelrcTemp': '.babelrc',
+            'editorconfigTemp': '.editorconfig',
+            'eslintrcTemp': '.eslintrc.js',
+            'gitignoreTemp': '.gitignore'
         }
         Object.keys(copyList).map(key => {
             this.fs.copy(
